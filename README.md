@@ -24,7 +24,7 @@ Interested in AI applications, data analysis and full-stack development.
 
 将课程项目整理成可阅读、可运行、能说明设计取舍的作品；持续积累 AI 应用与数据方向的实践，也欢迎交流全栈开发项目。
 
-目前关注 **远程 AI 应用／数据分析实习机会**。
+。
 
 ---
 
